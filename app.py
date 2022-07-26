@@ -25,7 +25,7 @@ import requests
 import pdfkit  
 import pandas as pd
 
-import win32com.client
+#import win32com.client
 import pythoncom
 import comtypes.client
 from pdf2docx import Converter, parse
