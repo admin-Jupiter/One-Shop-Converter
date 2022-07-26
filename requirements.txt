@@ -15,3 +15,4 @@ wkhtmltopdf
 pywin32
 comtypes 
 pdf2docx 
+gunicorn
