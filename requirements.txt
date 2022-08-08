@@ -12,7 +12,7 @@ img2pdf==0.4.4
 pdfkit==1.0.0
 pandas
 #wkhtmltopdf
-pywin32
+#pywin32
 comtypes==1.1.11
 pdf2docx==0.5.4
 gunicorn
