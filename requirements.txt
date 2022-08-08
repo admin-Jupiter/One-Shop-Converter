@@ -11,7 +11,7 @@ python-poppler==0.3.0
 img2pdf==0.4.4
 pdfkit==1.0.0
 pandas
-wkhtmltopdf==0.2
+wkhtmltopdf
 pywin32
 comtypes==1.1.11
 pdf2docx==0.5.4
